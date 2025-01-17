@@ -70,6 +70,6 @@
     <p>ImageFusion transforms images into meaningful visual insights with speed and precision, empowering users to unlock the full potential of image processing!</p>
 </footer>
 
-<img src=""C:\Users\navee\OneDrive\Documents\Image Segmentation & Edge Detection\Output.png"" alt="Image Segmentation & Edge Detection Otuput ">
+<img src="" alt="Image Segmentation & Edge Detection Otuput ">
 </body>
 </html>
